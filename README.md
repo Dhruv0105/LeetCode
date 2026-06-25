@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhruv0105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhruv0105/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dhruv0105/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dhruv0105/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dhruv0105/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Graph Theory
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 <!---LeetCode Topics End-->
