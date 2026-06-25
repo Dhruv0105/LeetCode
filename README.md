@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Dhruv0105/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv0105/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv0105/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/Dhruv0105/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Dhruv0105/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhruv0105/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
 ## Counting Sort
@@ -103,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv0105/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv0105/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv0105/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -153,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
