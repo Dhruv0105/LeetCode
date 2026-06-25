@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Dhruv0105/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dhruv0105/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Dhruv0105/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv0105/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv0105/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Dhruv0105/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhruv0105/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv0105/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv0105/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv0105/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -117,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv0105/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
