@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv0105/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv0105/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Stack
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Dhruv0105/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv0105/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv0105/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dhruv0105/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
