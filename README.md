@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Dhruv0105/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv0105/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhruv0105/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv0105/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Dhruv0105/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv0105/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhruv0105/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Counting Sort
 |  |
 | ------- |
