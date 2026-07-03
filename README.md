@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhruv0105/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dhruv0105/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dhruv0105/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv0105/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Segment Tree
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
 | ------- |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Recursion
 |  |
 | ------- |
@@ -255,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
