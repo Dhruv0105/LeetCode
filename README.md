@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv0105/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhruv0105/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhruv0105/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Dhruv0105/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhruv0105/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhruv0105/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhruv0105/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Dhruv0105/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Dhruv0105/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dhruv0105/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -341,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dhruv0105/LeetCode/tree/master/0493-reverse-pairs) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
