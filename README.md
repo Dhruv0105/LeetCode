@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhruv0105/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dhruv0105/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dhruv0105/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv0105/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Dhruv0105/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv0105/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhruv0105/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv0105/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhruv0105/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhruv0105/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -237,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv0105/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Segment Tree
 |  |
@@ -257,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dhruv0105/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/Dhruv0105/LeetCode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -302,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv0105/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv0105/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
