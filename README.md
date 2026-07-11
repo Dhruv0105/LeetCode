@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Dhruv0105/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv0105/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv0105/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv0105/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/Dhruv0105/LeetCode/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Dhruv0105/LeetCode/tree/master/0704-binary-search) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhruv0105/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhruv0105/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -368,11 +371,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/Dhruv0105/LeetCode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0105/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1032-stream-of-characters) |
@@ -388,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0105/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
