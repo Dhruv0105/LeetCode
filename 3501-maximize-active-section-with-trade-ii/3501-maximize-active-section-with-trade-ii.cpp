@@ -5,7 +5,6 @@ public:
         int totalOnesFull = 0;
         for (char c : s) if (c=='1') totalOnesFull++;
 
-        // Run-length encode s
         vector<int> runStart, runLen; vector<char> runChar;
         for (int i=0;i<n;){
             int j=i; while(j<n && s[j]==s[i]) j++;
@@ -20,9 +19,6 @@ public:
             return res;
         };
 
-        // mergeVal[k] (only for '1' runs): leftZero(full)+rightZero(full)  [no subtraction]
-        // zeroLenArr[k] (only for '0' runs): runLen[k]
-        // oneLenArr[k] (only for '1' runs): runLen[k]
         vector<int> mergeVal(R, INT_MIN), zeroLenArr(R, INT_MIN), oneLenArr(R, INT_MAX);
         for(int k=0;k<R;k++){
             if(runChar[k]=='1'){
@@ -69,15 +65,15 @@ public:
             long long bestGain = 0;
 
             if (rl != rr) {
-                int leftClip = runStart[rl]+runLen[rl]-l;   // clipped length of run rl within [l,r]
-                int rightClip = r-runStart[rr]+1;            // clipped length of run rr within [l,r]
+                int leftClip = runStart[rl]+runLen[rl]-l;   
+                int rightClip = r-runStart[rr]+1;            
 
                 if (rl+1 <= rr-1) {
-                    // safe interior (both neighbors full, no clipping needed): [rl+2, rr-2]
+                
                     long long safe = qMerge(rl+2, rr-2);
                     if (safe != LLONG_MIN) bestGain = max(bestGain, safe);
 
-                    // boundary interior runs: k = rl+1 and k = rr-1
+                    
                     for (int k : {rl+1, rr-1}) {
                         if (k < rl+1 || k > rr-1) continue;
                         if (runChar[k] != '1') continue;
@@ -88,21 +84,21 @@ public:
                         bestGain = max(bestGain, (long long)leftZero + rightZero);
                     }
 
-                    // separate case: maxZeroRun(in [l,r]) - minOneRunLen(interior only)
+                    
                     long long maxZero = LLONG_MIN;
                     if (runChar[rl]=='0') maxZero = max(maxZero, (long long)leftClip);
                     if (runChar[rr]=='0') maxZero = max(maxZero, (long long)rightClip);
                     long long zmid = qZero(rl+1, rr-1);
                     if (zmid != LLONG_MIN) maxZero = max(maxZero, zmid);
 
-                    long long minOne = qOne(rl+1, rr-1); // interior runs never clipped
+                    long long minOne = qOne(rl+1, rr-1); 
 
                     if (maxZero != LLONG_MIN && minOne != LLONG_MAX)
                         bestGain = max(bestGain, maxZero - minOne);
                 }
-                // if rl+1 > rr-1 (m==2, no interior run) -> bestGain stays 0
+                
             }
-            // if rl==rr (m==1) -> bestGain stays 0
+            
 
             ans[qi] = totalOnesFull + (int)bestGain;
         }
