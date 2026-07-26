@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dhruv0105/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv0105/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhruv0105/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhruv0105/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhruv0105/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0146-lru-cache) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv0105/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhruv0105/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Dhruv0105/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dhruv0105/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhruv0105/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhruv0105/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
