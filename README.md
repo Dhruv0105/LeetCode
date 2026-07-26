@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Dhruv0105/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0493-reverse-pairs](https://github.com/Dhruv0105/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Dhruv0105/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv0105/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0912-sort-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Dhruv0105/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dhruv0105/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Dhruv0105/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruv0105/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Dhruv0105/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Dhruv0105/LeetCode/tree/master/0932-beautiful-array) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
