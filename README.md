@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhruv0105/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2043-simple-bank-system](https://github.com/Dhruv0105/LeetCode/tree/master/2043-simple-bank-system) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhruv0105/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dhruv0105/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv0105/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv0105/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Dhruv0105/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/Dhruv0105/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhruv0105/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhruv0105/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhruv0105/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
