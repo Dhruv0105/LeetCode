@@ -13,27 +13,20 @@ public:
         }
 
         int halfLen = n / 2;
-        const long long CAP = 2000000000LL; // generous cap, well above k's max of 1e6
-
-        // Compute multinomial coefficient len! / (c0! c1! ... c25!) incrementally,
-        // capping intermediate values (BEFORE multiplying) to avoid overflow.
+        const long long CAP = 2000000000LL; 
         auto countPerms = [&](vector<int>& counts, int len) -> long long {
             long long result = 1;
             int remaining = len;
             for (int i = 0; i < 26; i++) {
                 int c = counts[i];
-                // multiply by C(remaining, c) = remaining!/(c!(remaining-c)!)
                 long long comb = 1;
                 for (int j = 1; j <= c; j++) {
                     comb = comb * (remaining - c + j) / j;
                     if (comb > CAP) { comb = CAP; break; }
                 }
-                // cap result before multiplying to avoid overflow
                 if (result > CAP || comb > CAP) {
                     result = CAP;
                 } else {
-                    // safe to multiply: both result and comb are <= CAP (2e9),
-                    // product could be up to 4e18 which fits in long long (max ~9.2e18)
                     result = result * comb;
                     if (result > CAP) result = CAP;
                 }
