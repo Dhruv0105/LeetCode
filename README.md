@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhruv0105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/Dhruv0105/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dhruv0105/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dhruv0105/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhruv0105/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Dhruv0105/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhruv0105/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Dhruv0105/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Dhruv0105/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhruv0105/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Dhruv0105/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Dhruv0105/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Dhruv0105/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Dhruv0105/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhruv0105/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
@@ -563,4 +566,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dhruv0105/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dhruv0105/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
