@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dhruv0105/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Dhruv0105/LeetCode/tree/master/1510-stone-game-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhruv0105/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dhruv0105/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhruv0105/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Dhruv0105/LeetCode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhruv0105/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv0105/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -601,18 +603,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Dhruv0105/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Dhruv0105/LeetCode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Dhruv0105/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Dhruv0105/LeetCode/tree/master/1510-stone-game-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhruv0105/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv0105/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv0105/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
