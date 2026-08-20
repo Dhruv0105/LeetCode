@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Dhruv0105/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhruv0105/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Dhruv0105/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Dhruv0105/LeetCode/tree/master/2076-process-restricted-friend-requests) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Dhruv0105/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhruv0105/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhruv0105/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhruv0105/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Dhruv0105/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv0105/LeetCode/tree/master/3620-network-recovery-pathways) |
