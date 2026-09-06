@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhruv0105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Dhruv0105/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Dhruv0105/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dhruv0105/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1140-stone-game-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/Dhruv0105/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Dhruv0105/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Dhruv0105/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/Dhruv0105/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv0105/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
