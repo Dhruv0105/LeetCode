@@ -22,7 +22,7 @@ class Solution {
         for (char c : letters.toCharArray()) {
             current.append(c);
             backtrack(result, digits, mapping, current, index + 1);
-            current.deleteCharAt(current.length() - 1); // backtrack
+            current.deleteCharAt(current.length() - 1); 
         }
     }
 }
