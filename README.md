@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Dhruv0105/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Dhruv0105/LeetCode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv0105/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Dhruv0105/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1140-stone-game-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Dhruv0105/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv0105/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Dhruv0105/LeetCode/tree/master/0481-magical-string) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv0105/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1032-stream-of-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhruv0105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Dhruv0105/LeetCode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv0105/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv0105/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dhruv0105/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv0105/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Dhruv0105/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv0105/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dhruv0105/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv0105/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv0105/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
