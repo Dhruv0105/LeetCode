@@ -23,8 +23,6 @@ class Solution {
                     found = true;
                 }
 
-                // Don't remove more characters once valid strings
-                // are found at this level.
                 if (found)
                     continue;
 
