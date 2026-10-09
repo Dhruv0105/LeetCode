@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv0105/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Dhruv0105/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/Dhruv0105/LeetCode/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0815-bus-routes](https://github.com/Dhruv0105/LeetCode/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhruv0105/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruv0105/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Dhruv0105/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0463-island-perimeter](https://github.com/Dhruv0105/LeetCode/tree/master/0463-island-perimeter) |
+| [0480-sliding-window-median](https://github.com/Dhruv0105/LeetCode/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/Dhruv0105/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Dhruv0105/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0105/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Dhruv0105/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Dhruv0105/LeetCode/tree/master/0355-design-twitter) |
+| [0480-sliding-window-median](https://github.com/Dhruv0105/LeetCode/tree/master/0480-sliding-window-median) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0105/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0912-sort-an-array) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dhruv0105/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv0105/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/Dhruv0105/LeetCode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruv0105/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhruv0105/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -869,4 +873,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0105/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dhruv0105/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Dhruv0105/LeetCode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
