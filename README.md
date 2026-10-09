@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Dhruv0105/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Dhruv0105/LeetCode/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv0105/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv0105/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Dhruv0105/LeetCode/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv0105/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Dhruv0105/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dhruv0105/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Dhruv0105/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv0105/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv0105/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Dhruv0105/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Dhruv0105/LeetCode/tree/master/0460-lfu-cache) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv0105/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0105/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv0105/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Dhruv0105/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Dhruv0105/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Dhruv0105/LeetCode/tree/master/0932-beautiful-array) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dhruv0105/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv0105/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv0105/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/Dhruv0105/LeetCode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruv0105/LeetCode/tree/master/0643-maximum-average-subarray-i) |
