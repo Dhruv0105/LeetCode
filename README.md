@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Dhruv0105/LeetCode/tree/master/2029-stone-game-ix) |
 | [2043-simple-bank-system](https://github.com/Dhruv0105/LeetCode/tree/master/2043-simple-bank-system) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Dhruv0105/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0105/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhruv0105/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhruv0105/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dhruv0105/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Dhruv0105/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dhruv0105/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhruv0105/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0105/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruv0105/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhruv0105/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhruv0105/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Dhruv0105/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv0105/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv0105/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0105/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dhruv0105/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dhruv0105/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv0105/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
