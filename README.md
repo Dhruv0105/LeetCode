@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Dhruv0105/LeetCode/tree/master/0463-island-perimeter) |
+| [0685-redundant-connection-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/Dhruv0105/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Dhruv0105/LeetCode/tree/master/0463-island-perimeter) |
+| [0685-redundant-connection-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhruv0105/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhruv0105/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruv0105/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0685-redundant-connection-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhruv0105/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dhruv0105/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
