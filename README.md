@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Dhruv0105/LeetCode/tree/master/0463-island-perimeter) |
 | [0687-longest-univalue-path](https://github.com/Dhruv0105/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhruv0105/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dhruv0105/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhruv0105/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Dhruv0105/LeetCode/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhruv0105/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Dhruv0105/LeetCode/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Dhruv0105/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Dhruv0105/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhruv0105/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Dhruv0105/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhruv0105/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruv0105/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhruv0105/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dhruv0105/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhruv0105/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -969,4 +973,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Dhruv0105/LeetCode/tree/master/1025-divisor-game) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Dhruv0105/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
