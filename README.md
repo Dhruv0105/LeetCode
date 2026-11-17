@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhruv0105/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Dhruv0105/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Dhruv0105/LeetCode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Dhruv0105/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Dhruv0105/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhruv0105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/Dhruv0105/LeetCode/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv0105/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruv0105/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Dhruv0105/LeetCode/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Dhruv0105/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhruv0105/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2043-simple-bank-system](https://github.com/Dhruv0105/LeetCode/tree/master/2043-simple-bank-system) |
