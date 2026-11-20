@@ -4,10 +4,8 @@ class Solution {
         int[] ans = new int[n];
         Arrays.fill(ans, -1);
         Stack<Integer> st = new Stack<>();
-
         for (int i=2*n-1; i>=0; i--) {
             int idx = i%n;
-
             while (!st.isEmpty() && st.peek() <= nums[idx])
             st.pop();
             if (i<n && !st.isEmpty())
