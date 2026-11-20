@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhruv0105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dhruv0105/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv0105/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Dhruv0105/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Dhruv0105/LeetCode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv0105/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Dhruv0105/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Dhruv0105/LeetCode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Dhruv0105/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dhruv0105/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0273-integer-to-english-words](https://github.com/Dhruv0105/LeetCode/tree/master/0273-integer-to-english-words) |
